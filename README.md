@@ -1,1 +1,3 @@
 # ror-training
+ - ruby
+ - rails
